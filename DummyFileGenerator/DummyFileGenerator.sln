@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyFileGenerator", "DummyFileGenerator\DummyFileGenerator.csproj", "{3BBFAF3C-CB86-4843-975B-36393E29D7C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BBFAF3C-CB86-4843-975B-36393E29D7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBFAF3C-CB86-4843-975B-36393E29D7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBFAF3C-CB86-4843-975B-36393E29D7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBFAF3C-CB86-4843-975B-36393E29D7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A26DB2-2707-4CC2-A08A-A4348CEE88C5}
+	EndGlobalSection
+EndGlobal
